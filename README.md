@@ -1,11 +1,11 @@
 # Rust Calculator Project
 
-This project implements a calculator in Rust that performs arithmetic operations either from user input via the keyboard or from operations read from a file. The user can choose between two input modes: entering operations manually or reading them from the `operations.txt` file.
+This project implements a calculator in Rust that performs arithmetic operations either from user input via the keyboard or from operations read from a file. The user can choose between two input modes: entering operations manually or reading them from the `exampes.txt` file.
 
 ## Features
 - Perform basic arithmetic operations (`+`, `-`, `*`, `/`).
 - Input operations manually via the keyboard.
-- Read and execute operations from a text file (`operations.txt`).
+- Read and execute operations from a text file (`exampes.txt`).
 - Handle invalid inputs and errors gracefully.
 
 ## Usage
